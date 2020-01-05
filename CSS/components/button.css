@@ -1,0 +1,23 @@
+.boutton-green
+{
+	background-color: green;
+	padding: 15px 20px;
+	margin: 40px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif;
+	
+}
+
+
+.boutton-red
+{
+background-color: red;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Dosis', sans-serif;
+
+}
